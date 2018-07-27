@@ -1,5 +1,6 @@
-GitList = ['taco', 'cheetos', 'walmart', 'bananna'
+GitList = ['taco', 'cheetos', 'jimmyjohns', 'bananna', 'cookies', 'whippedcream', 'soupatchkids'
 
 ]
+
 
 
