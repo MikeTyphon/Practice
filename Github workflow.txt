@@ -1,0 +1,14 @@
+1-- $ git clone [repository]
+//creates repository in folder
+2-- $ git status
+//shows status of files in repository
+3-- $ git add 'somefile.file' 
+// adds file to the repository from local
+4-- git commit -m 'some comment about the changes'
+// commits changes to local git repository
+5-- git push 
+ -- Username [MikeTyphon]
+ -- Password [***********]
+//sends changes to online git repository
+6-- git status
+//check to see everything has been properly updated and added to the appropriate areas
