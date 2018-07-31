@@ -15,3 +15,9 @@ print(nerp)
 
 print(nerp ==nerp)
 print(narp == nerp)
+
+def narpsponse(a):
+	if '?' in a:
+		print('narp')
+
+narpsponse('the weiner bus is on time?')
