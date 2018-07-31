@@ -5,3 +5,6 @@ GitList = ['taco', 'cheetos', 'jimmyjohns', 'bananna', 'cookies', 'whippedcream'
 
 
 x = 'there once was a chicken from penisville'
+
+bananna = 'this is from the bananna branch'
+b = 'for bannana'
