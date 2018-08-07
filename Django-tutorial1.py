@@ -23,3 +23,15 @@ It has two parts:
 
 '''
 
+# in mysite folder, type 'python manage.py runserver'
+#this will open Djanogo development server. This is a lightweight web server
+#It is only to be used for development, it is not for use as a web server. 
+
+#by default: the development server is set to the internal ip: '8000'
+# to change server's port: run command 'python manage.py runserver ####'
+
+# to listen on all public IP's 'python manage.py runserver 0:8000'
+#0 is a shortcut for 0.0.0.0 
+
+
+
