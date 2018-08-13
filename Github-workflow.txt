@@ -17,7 +17,7 @@
 8-- git config --global user.email "alexcgaiser@gmail.com"
 // sets email for repository (should work for all local git files and folders)
 9-- git config --list
-// shows all configuration items for depository (should be updated with info in 7--,8--)
+// showgit s all configuration items for depository (should be updated with info in 7--,8--)
 10-- git init
 // sets up directory to be tracked and manipulated via git
 11-- git branch [nameofbranch]
