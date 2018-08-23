@@ -432,4 +432,4 @@ def detail(request, question_id):
 
 # 3. List-index lookup, it will try to access the bar index in the list foo : foo[bar]
 
-
+# git  git git 
